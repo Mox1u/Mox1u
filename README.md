@@ -1,9 +1,9 @@
-### Welcome To My Profile👋
-Contact me:
+### Welcome To My Profile 👋
 
-   ```bash
-   Telegram : https://t.me/moxiuu
-   ```
-Profile Views:
+**Contact me:**
+
+[Telegram](https://t.me/moxiuu)
+
+**Profile Views:**
 
 ![Profile views](https://profile-counter.glitch.me/moxiuuu/count.svg)
