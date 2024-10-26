@@ -6,4 +6,4 @@
 
 **Profile Views:**
 
-![Profile views](https://profile-counter.glitch.me/moxiuuu/count.svg)
+![Profile views](https://profile-counter.glitch.me/mox1u/count.svg)
